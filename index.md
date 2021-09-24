@@ -15,7 +15,8 @@ link to [section 1](#yixin-zhu)
 
 [gitignore for this project](~/../.gitignore)
 
-![This is an image](https://www.google.com/search?q=cse+ucsd&tbm=isch&ved=2ahUKEwiD-JaFm5jzAhWSnlMKHVmCB-cQ2-cCegQIABAA&oq=cse+ucsd&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDIECAAQGDoECAAQQzoFCAAQgAQ6BggAEAUQHlCuMljNOGDBOWgAcAB4AIABkwKIAasGkgEFMC4xLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=CxVOYcPGOpK9zgLZhJ64Dg&bih=683&biw=1440#imgrc=WJo1dk8u9MzXDM)
+[readme for this project](~/.././README.md)
+
 
 - HW1
 - HW2
