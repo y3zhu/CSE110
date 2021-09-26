@@ -13,8 +13,6 @@ git commit
 link to my [github page](https://github.com/y3zhu/CSE110)
 link to [section 1](#yixin-zhu)
 
-[gitignore for this project](~/../.gitignore)
-
 [readme for this project](~/.././README.md)
 
 
@@ -30,4 +28,6 @@ link to [section 1](#yixin-zhu)
 - [ ] LAB2
 - [ ] LAB3
 
+
+![dog 1](https://ichef.bbci.co.uk/news/976/cpsprodpb/12A9B/production/_111434467_gettyimages-1143489763.jpg)
 
